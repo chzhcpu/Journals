@@ -18,6 +18,7 @@ $RECYCLE.BIN/
 *.lnk
 
 *.dll
+*.pdb
 
 # =========================
 # Operating System Files

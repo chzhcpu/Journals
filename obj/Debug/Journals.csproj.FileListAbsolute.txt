@@ -1,0 +1,17 @@
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\ResolveAssemblyReference.cache
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.Resources.Resource.resources
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\GenerateResource.read.1.tlog
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\GenerateResource.write.1.tlog
+F:\coding\Spacebuilder_4.2.0.0_src\Web\bin\Spacebuilder.Journals.dll
+F:\coding\Spacebuilder_4.2.0.0_src\Web\bin\Spacebuilder.Journals.pdb
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.dll
+F:\coding\Spacebuilder_4.2.0.0_src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.pdb
+F:\coding\Spacebuilder_4.2.0.0_src\Web\bin\Spacebuilder.Journals.XML
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\bin\Spacebuilder.Journals.dll
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\bin\Spacebuilder.Journals.pdb
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\Applications\Journals\obj\Debug\Journals.csprojResolveAssemblyReference.cache
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.Resources.Resource.resources
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\Applications\Journals\obj\Debug\Journals.csproj.GenerateResource.Cache
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.dll
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\Applications\Journals\obj\Debug\Spacebuilder.Journals.pdb
+E:\F\coding\Spacebuilder_V4.2.0.0_Src\Web\bin\Spacebuilder.Journals.XML
